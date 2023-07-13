@@ -1,5 +1,5 @@
 # Ingredient-to-Recipe-Generator
-Food is a vital part of a person’s health and well-being which is crucial for maintaining a good
+🍴Food is a vital part of a person’s health and well-being which is crucial for maintaining a good
 mental and physical state of the body. The common problem that has plagued us is that sometimes
 it is tough to choose what we need to cook based on the ingredients available. There are a lot of
 ingredients available which can be used in different combinations to make numerous kinds of food
@@ -8,3 +8,7 @@ algorithms as RNN and LSTM to suggest recipes to users based on the ingredients
 that has been given by the users. The recipe generation will be done by utilizing a model which
 comprises a neural network. The main aspect of recipe generation lies in the ingredients that are
 sourced and will play a key role in generation of recipes.
+🍜For ingredient to recipe, we have used RNN and
+LSTM algorithms, this RNN algorithm is used for the recipe generation as an text generator, LSTM
+is used for storing the output of the previous layer for a longer time which helps in producing the
+output for the next layer efficiently. 
